@@ -1,4 +1,4 @@
-# MauriMind AI Solution and Technology
+# MauriMind AI Solution and Technology Startup
 
 👋 Hi, I’m [@MauriMind](https://github.com/MauriMind), your go-to solution for cutting-edge AI technology!
 
