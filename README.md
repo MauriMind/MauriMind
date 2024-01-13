@@ -25,14 +25,6 @@ At MauriMind, we are dedicated to harnessing the power of artificial intelligenc
 - NLP
 - Computer Vision
 - Reinforcement Learning
-
-## Current Focus
-
-🌱 Exploring:
-- State-of-the-art neural networks
-- Ethical AI practices
-- AI integration into real-world applications
-
 ## Collaboration
 
 💞️ Looking to collaborate on groundbreaking AI solutions.
